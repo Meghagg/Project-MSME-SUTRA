@@ -28,7 +28,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://www.youtube.com/watch?v=CJsobfaN5BI)
 
 ## The architecture
 
@@ -41,7 +41,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Long description
 
-[More detail is available here](Description.pdf) for details on our portal MSME SUTRA
+[Explore more on MSME-SUTRA here](Description.pdf)
 
 ## Contributing
 
