@@ -68,3 +68,6 @@ Also attaching the presentation for your reference [SOLUTION ROADMAP](https://gi
 ## Acknowledgments
 
 * Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) and took help from Project-Sample (https://github.com/Code-and-Response/Project-Sample#authors)
+* Website builder tool: Wix
+* Video creation/editing tool: Adobe spark, clipgrab
+
