@@ -4,6 +4,7 @@
 ## Contents
 
 1. [Short description](#short-description)
+1. [Website link](#website-link)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
@@ -26,6 +27,9 @@ Collaborations and partnerships between MSMEs and technology are the way forward
 
 'MSME Sutra' is a way of connecting these industries with each other at national level. Enterprises registered on the portal will be given an opportunity to search for similar nature of industries along with basic contact details. These can in turn maintain a symbiotic relationship in this challenging time to keep themselves afloat. For instance, a manufacturing unit can have labor but is struggling for raw material. A similar industry has stock but due to non-availability of manpower cannot resume operation. These two can connect through our portal and initiate negotiations at their own pace. Apart from helping these enterprises in this period of turmoil, this portal would help expand customer base for these limited scaled industries.
 
+## Website-link
+
+[![MSME-SUTRA PORTAL](https://github.com/Meghagg/Project-MSME-SUTRA/blob/master/MSME%20SUTRA%20DEMO%20VIDEO.PNG)](https://techwomaniya6.wixsite.com/msmesutra)
 
 ## Demo video
 
