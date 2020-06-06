@@ -1,4 +1,5 @@
-# Submission name - MSME- SUTRA
+# Team name - Tech Womaniya
+# Project name - MSME-SUTRA
 
 ## Contents
 
@@ -7,8 +8,7 @@
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Getting started](#getting-started)
-1. [Built with](#built-with)
-1. [Contributing](#contributing)
+1. [Solution Roadmap](#solution-roadmap)
 1. [Team Members](#teammembers)
 1. [Acknowledgments](#acknowledgments)
 
