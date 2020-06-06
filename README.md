@@ -29,7 +29,7 @@ Collaborations and partnerships between MSMEs and technology are the way forward
 
 ## Website-link
 
-[![MSME-SUTRA PORTAL](https://github.com/Meghagg/Project-MSME-SUTRA/blob/master/MSME%20SUTRA%20DEMO%20VIDEO.PNG)](https://techwomaniya6.wixsite.com/msmesutra)
+[![MSME-SUTRA PORTAL] (https://techwomaniya6.wixsite.com/msmesutra)
 
 ## Demo video
 
