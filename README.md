@@ -28,7 +28,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://www.youtube.com/watch?v=CJsobfaN5BI)
+[![Watch the video](https://github.com/Meghagg/Project-MSME-SUTRA/blob/master/MSME%20SUTRA%20DEMO%20VIDEO.PNG)](https://www.youtube.com/watch?v=CJsobfaN5BI)
 
 ## The architecture
 
@@ -49,10 +49,10 @@ Also attaching the presentation for your reference [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Team Members
 
-* **Megha Aggarwal** 
-  **Somya Mangla** 
-  **Archana HV** 
-  **Pruthvi Bennur** 
+* **Megha Aggarwal,** 
+  **Somya Mangla,** 
+  **Archana HV,** 
+  **Pruthvi Bennur,** 
   **Shalini Rastogi** 
 
 ## Team Mentor
