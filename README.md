@@ -32,12 +32,16 @@ It's imperative that learning and creating can continue when educational institu
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![MSME SUTRA WEB PORTAL - COLLABORATE, SHARE AND GROW TOGETHER](https://github.com/Meghagg/Project-MSME-SUTRA/blob/master/Architecture-%20MSME-SUTRA.jpg)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user(Vendor) navigates to Register page for registration.
+2. Login with its credentials .
+3. Vendor will have to navigate to services page to add any requirement for MSME UNIT's.
+4. Vendors can add this information only when they will register themselves in this portal.
+5. Any user who registered in the portal can see the services like raw materials  machines etc and contact the vendor.
+6. If a user uses MSME SUTRA to contact the vendor then they have to register themselves in the website as View contact info link is navigating the user to login page.
+
+Our vision is to do extend our services largely by listing all the services under MSME’s, to collaborate ourselves with government officials and open a channel for multiple vendors.So that we all can fight together and support each other in the pandemic we are into right now.
 
 ## Long description
 
