@@ -29,7 +29,7 @@ Collaborations and partnerships between MSMEs and technology are the way forward
 
 ## Website-link
 
-[![MSME-SUTRA PORTAL] (https://techwomaniya6.wixsite.com/msmesutra)
+Link to MSME-SUTRA PORTAL - (https://techwomaniya6.wixsite.com/msmesutra)
 
 ## Demo video
 
