@@ -8,7 +8,6 @@
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
-1. [Getting started](#getting-started)
 1. [Solution Roadmap](#solution-roadmap)
 1. [Team Members](#teammembers)
 1. [Acknowledgments](#acknowledgments)
