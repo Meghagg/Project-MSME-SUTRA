@@ -41,11 +41,11 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[More detail is available here](Description.pdf) for details on our portal MSME SUTRA
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our portal MSME SUTRA, and also attaching the presentation for your reference [CONTRIBUTING.md](CONTRIBUTING.md)
+Also attaching the presentation for your reference [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Team Members
 
