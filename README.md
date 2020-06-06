@@ -16,15 +16,16 @@
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+The Covid-19 pandemic has left its impact on all sectors of the economy but nowhere is the hurt as much as the Medium, Small and Micro Enterprises (MSMEs) of India. All anecdotal evidence available, such as the hundreds of thousands of stranded migrant workers across the country, suggests that MSMEs have been the worst casualty of Covid-19 induced lockdown.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Collaborations and partnerships between MSMEs and technology are the way forward for the industry to fight it out and emerge stronger amid the Coronavirus outbreak. Thus, giving birth to the idea of  “MSME SUTRA”.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+'MSME Sutra' is a way of connecting these industries with each other at national level. Enterprises registered on the portal will be given an opportunity to search for similar nature of industries along with basic contact details. These can in turn maintain a symbiotic relationship in this challenging time to keep themselves afloat. For instance, a manufacturing unit can have labor but is struggling for raw material. A similar industry has stock but due to non-availability of manpower cannot resume operation. These two can connect through our portal and initiate negotiations at their own pace. Apart from helping these enterprises in this period of turmoil, this portal would help expand customer base for these limited scaled industries.
+
 
 ## Demo video
 
@@ -39,7 +40,8 @@ It's imperative that learning and creating can continue when educational institu
 3. Vendor will have to navigate to services page to add any requirement for MSME UNIT's.
 4. Vendors can add this information only when they will register themselves in this portal.
 5. Any user who registered in the portal can see the services like raw materials  machines etc and contact the vendor.
-6. If a user uses MSME SUTRA to contact the vendor then they have to register themselves in the website as View contact info link is navigating the user to login page.
+6. Service menu will list all the services what are registered with MSME- SUTRA portal like Raw materials, machinery, human    resources and will allow the users to navigate to their corresponding pages which will further show all the listed services of the vendors with descriptive product details entered by registered vendors.
+7. If a user uses MSME SUTRA to contact the vendor then they have to register themselves in the website as View contact info link is navigating the user to login page.
 
 Our vision is to do extend our services largely by listing all the services under MSME’s, to collaborate ourselves with government officials and open a channel for multiple vendors.So that we all can fight together and support each other in the pandemic we are into right now.
 
@@ -47,9 +49,9 @@ Our vision is to do extend our services largely by listing all the services unde
 
 [Explore more on MSME-SUTRA here](Description.pdf)
 
-## Contributing
+## SOLUTION ROADMAP
 
-Also attaching the presentation for your reference [CONTRIBUTING.md](CONTRIBUTING.md)
+Also attaching the presentation for your reference [SOLUTION ROADMAP](https://github.com/Meghagg/Project-MSME-SUTRA/blob/master/Solution%20Roadmap.pptx)
 
 ## Team Members
 
